@@ -1,2 +1,2 @@
-# knn-from-scratch
-A simple KNN classifier coded from scratch, with a demonstration
+# A K-Nearest Neighbors Classifier: From Scratch
+I wrote this simple classifier as a means to practice OOP. Code + demonstration is found in the Jupyter notebook in this repo.
